@@ -1,0 +1,19 @@
+.separator {
+  width: 90%;
+  background-color: #ffffff;
+
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+}
+
+.info-message {
+  margin: 2em 0;
+  padding: 2em;
+
+  font-size: 1.5em;
+  font-weight: bold;
+  background-color: #ff0000;
+
+  border-radius: 20px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+}
